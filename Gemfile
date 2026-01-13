@@ -2,7 +2,12 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
+gem "csv"
+gem "logger"
+gem "base64"
+
+
+gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
 group :test do
   gem "html-proofer", "~> 3.18"
