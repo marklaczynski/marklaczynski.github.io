@@ -1,8 +1,8 @@
 ---
 title: "Building My First Claude Code Plugin: Desktop Notifications When AI Needs You"
 date: 2026-02-27 18:00:00 -0600
-categories: [PROJECTS, AI]
-tags: [claude-code, plugins, hooks, macos, automation, developer-tools]
+categories: [BUILD]
+tags: [claude-code-plugins, developer-tools, hooks]
 ---
 
 I've been using Claude Code as my daily driver for a while now. It's become the kind of tool where I forget what it was like before — it reads my codebase, writes code, runs commands, and handles the tedious parts of development so I can focus on the interesting stuff.

@@ -1,8 +1,8 @@
 ---
 title: "From Manual Trading to Automated System: Why I Built Brainscan"
 date: 2026-01-12 14:30:00 -0500
-categories: [PROJECTS, TRADING]
-tags: [trading, automation, options-trading, portfolio-management, algotrading]
+categories: [BUILD]
+tags: [brainscan, trading, algotrading, options-trading]
 ---
 
 # From Manual Trading to Automated System: Why I Built Brainscan
